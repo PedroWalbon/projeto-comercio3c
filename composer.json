@@ -1,0 +1,7 @@
+"name": "PedroWalbon/projeto-comercio3c",
+"description": "",
+"autolad": {
+  "psr-4": {
+    "Src\\": "src"
+  }
+}
